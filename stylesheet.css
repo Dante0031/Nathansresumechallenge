@@ -1,0 +1,32 @@
+p {
+    color: #EBDDE2;
+}
+
+li {
+    color: #EBDDE2;
+    font-size: 15px;
+}
+
+#header {
+	position: auto;
+	top: 0px;
+	bottom: 460px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius:15px;
+}
+
+img {
+    float:right;
+    border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius:15px;
+}
+
+#info li {
+   display: block;
+   position:right;
+  }
